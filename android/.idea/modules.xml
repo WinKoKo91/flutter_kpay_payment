@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_kpay_payment.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_kpay_payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KbzARRDirectory/flutter_kpay_payment.KbzARRDirectory.iml" filepath="$PROJECT_DIR$/.idea/modules/KbzARRDirectory/flutter_kpay_payment.KbzARRDirectory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_kpay_payment.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_kpay_payment.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_kpay_payment.main.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_kpay_payment.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_kpay_payment.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_kpay_payment.unitTest.iml" />
+    </modules>
+  </component>
+</project>
